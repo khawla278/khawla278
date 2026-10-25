@@ -33,13 +33,7 @@ I'm a Computer Engineering student specializing in **Software Engineering and Bu
 
 
 
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khawlakhawla278&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khawlakhawla278&layout=compact&theme=tokyonight)
-
----
 
 ## 🤝 Connect With Me
 
